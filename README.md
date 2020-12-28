@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Freelance ABAP Developer (in)
-- ex-Python Gis Develeoper (out)
+- ⚡ Freelance ABAP Developer (in)
+- 💬 ex-Python Gis Developer (out)
 
 <!--
 **urcm/urcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
