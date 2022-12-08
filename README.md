@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- ⚡ ABAP Developer (in)
-- 💬 ex-Python GIS Developer (out)
+- ⚡ SAP ABAP Entwickler
+- 🌱 Arbeiten an sauberem Code
+- 💬 ex-Python GIS Entwickler
 
 <!--
 **urcm/urcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
