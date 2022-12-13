@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ SAP ABAP Entwickler
-- 🌱 Arbeiten an sauberem Code
+- 🌱 Arbeiten an Clean Code
 - 💬 ex-Python GIS Entwickler
 
 <!--
